@@ -53,7 +53,7 @@ Interactive slicers by campaign, date range, and ad type
 Visual storytelling using cards, trend lines, bar charts, and tables
 
 ## Dashboard Demo
-
+https://github.com/mdnashajomer10/FUTURE_DS_02/blob/main/task%202.mp4
 Walk through the interactive dashboard and see how insights are derived in real time.
 
 ## Project Insights
